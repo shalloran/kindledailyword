@@ -1,0 +1,2 @@
+# kindledailyword
+This is my first ever project! Get a specially crafted daily e-mail based on words you highlight while reading a kindle or similar e-reader. All books referenced were from Project Gutenberg. Please reach out if you have questions, or ways to improve! Nothing special, mostly using resources from gmail, Oxford Dictionaries API, and simple python. Uses f-strings, so must have python 3.7+ installed. 
