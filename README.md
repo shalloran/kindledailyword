@@ -1,7 +1,6 @@
-# SMH CS50 FINAL PROJECT README.MD
+# KINDLE DAILY WORD README.MD
 
-# Sean Halloran Final Project CS50 Spring 2019
-## Customized word of the day e-mail
+# Customized word of the day e-mail
 
 This application, found in the python file called application.py, is intended to help the user import a text file, called myclippings.txt (in kindle format) of highlighted words and phrases taken during their own reading. This application will then parse that file, output a dictionary file (if not the first time, add to dictionary file), and return a random word from this dictionary of words. This random word will get included in a GET request to the Oxford Dictionaries API which will be used to pull data about the word's origin, and a link to the Oxford page for that word entry. This application then sends the user a customized e-mail with all of this information about a randomly chosen word every day.
 
